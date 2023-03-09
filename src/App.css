@@ -1,0 +1,75 @@
+
+.inputBox {
+  width: 200px;
+  height: 25px;
+
+  border: none;
+  border-radius: 5px;
+}
+
+.addButton {
+  width: 100px;
+  height: 30px;
+
+  color: white;
+
+  background-color: rgb(68, 129, 109);
+  border: 0;
+  border-radius: 7px;
+
+  margin: 0 20px 0 auto;
+}
+
+.whatTodo {
+  font-size: 12px;
+  margin-bottom: 15px;
+}
+
+.todoDeleteButton {
+  background-color: white;
+  width: 70px;
+  height: 30px;
+
+  border: 2px solid rgb(255, 66, 66);
+  border-radius: 5px;
+}
+
+.todoDoneButton {
+  background-color: white;
+  width: 70px;
+  height: 30px;
+
+  margin-left: 10px;
+
+  border: 2px solid rgb(14, 179, 14);
+  border-radius: 5px;
+}
+
+.todoReviseButton {
+  background-color: white;
+  width: 70px;
+  height: 30px;
+
+  margin-left: 10px;
+
+  border: 2px solid rgb(233, 194, 20);
+  border-radius: 5px;
+}
+
+.reviseInput {
+  width: 200px;
+  height: 25px;
+  margin-top: 5px;
+  padding-left: 20px;
+
+  border: none;
+  border-radius: 10px;
+}
+
+.backHomeButton {
+  width: 90px;
+  height: 35px;
+
+  border: 1px solid black;
+  border-radius: 5px;
+}
